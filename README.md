@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently finding a new job
+- 🔭 I’m currently in search of a new job
 - 🌱 I’m currently learning Haskell and CI/CD for personal projects
 - 📫 How to reach me: business email in my bio
 - 😄 Pronouns: any/all
-- ⚡ Fun fact: comfiest coding is with cats by your side
+- ⚡ Fun fact: comfiest coding is with cat purring by your side
